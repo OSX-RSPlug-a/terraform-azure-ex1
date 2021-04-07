@@ -1,6 +1,6 @@
 # terraform-azure-ex1
 
-This is an exaple of Azure terraform creation;
+This is an exaple of Azure terraform K8 cluster creation;
 
 Init project:
 
